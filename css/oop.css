@@ -1,0 +1,51 @@
+h1 {
+  font-size: 80px;
+  font-family: Impact;
+}
+user agent stylesheet
+h1 {
+  display: block;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+
+p {
+  font-size: 35px;
+
+}
+
+
+.btn {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+}
+
+.btn:hover{
+  background-color: #008000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
